@@ -1,0 +1,8 @@
+# .gitignoree para o site da série UCM
+LICENSE
+**.tmp
+**.log
+**.pyc
+__pycache__
+**/.DS_Store
+
